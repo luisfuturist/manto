@@ -4,6 +4,7 @@
 - T-002 Add forum channels · created:2026-10-29
 - T-003 Add events config · created:2026-10-29
 - T-004 Add messages config · created:2026-10-29
+  - T-014 Add recurring messages
 - T-005 Add recurring messages · created:2026-10-29
 
 ## CLI
@@ -12,6 +13,7 @@
 - T-007 \$ manto push · created:2026-10-29
 - T-008 \$ manto pull · created:2026-10-29
 - T-009 \$ manto perms sync "showcase-\\\*" · created:2026-10-29
+  - T-015 Channel that matches the pattern will be synced within the respective category
 - T-010 Channel that matches the pattern will be synced within the respective category · created:2026-10-29
 
 ## Suggestions
